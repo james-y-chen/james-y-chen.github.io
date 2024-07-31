@@ -241,7 +241,7 @@ DEPENDENCIES
   jekyll-twitter-plugin
   jemoji
   unicode_utils
-  mini_racer
+  wdm (~> 0.1.0)
   webrick
 
 BUNDLED WITH
