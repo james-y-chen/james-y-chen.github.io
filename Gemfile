@@ -18,10 +18,15 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    # gem 'mini_racer'
+
+    # use this for actual deployment, comment out on local
+    gem 'mini_racer'
+
+    # use this for local, comment out for actual deployment
+    # gem 'wdm', '~> 0.1.0'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'wdm', '~> 0.1.0'
+
 end
 group :other_plugins do
     gem 'css_parser'
