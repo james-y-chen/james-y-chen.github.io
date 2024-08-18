@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: First year PhD student at MIT EECS
 
 profile:
   align: right
@@ -12,11 +12,13 @@ profile:
     <p>MIT EECS</p>
     <p>Cambridge, MA</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to my in-progress website! I'm James and I'm an incoming PhD student in MIT EECS. I'm very excited to exploring my interests across learning, control and optimization over the course of my PhD. In particular, I'm currently interested in how we can apply machine learning to control in a robust manner, particularly for power grid applications.
+Welcome to my in-progress website!
 
-I graduated from Caltech in June 2024 with a Bachelor of Science in Electrical Engineering.
+I'm James and I'm an incoming PhD student in MIT EECS. I'm very excited to exploring my interests across learning, control and optimization over the course of my PhD. I'm currently interested in how we can apply machine learning to control in a robust manner, particularly for power grid applications.
+
+I graduated from Caltech in June 2024 with a Bachelor of Science in Electrical Engineering. I worked on enforcing real-world constraints in learning-augmented online optimization with Professor Adam Wierman, as well as non-asymptotic information theory with Professor Victoria Kostina.
