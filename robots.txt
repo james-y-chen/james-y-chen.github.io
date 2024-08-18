@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://james-chen-mit.github.io/sitemap.xml
+Sitemap: https://james-y-chen.github.io/sitemap.xml
