@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Thid year PhD student at MIT EECS
+subtitle: Third year PhD student at MIT EECS
 
 profile:
   align: right
