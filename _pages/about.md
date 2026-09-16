@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>MIT EECS</p>
     <p>Cambridge, MA</p>
-    <p>[first name]yc AT mit.edu</p>
+    <p>[first&nbsp;name]yc&nbsp;AT&nbsp;mit&nbsp;DOT&nbsp;edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
