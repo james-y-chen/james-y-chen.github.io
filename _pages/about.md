@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my website!
 
-I'm James and I'm a third-year PhD student MIT EECS advised by Priya Donti. I'm interested in exploring how we can translate the successes of modern machine learning to power grid applications, and how the limitations that arise inform how we should better design ML methods.
+I'm James and I'm a third-year PhD student MIT EECS advised by Priya Donti. My research explores how we can translate the successes of modern machine learning to power grid applications, and how the limitations that arise inform how we should better design ML methods.
 
 I received my SM in EECS from MIT in May 2026, where I was fortunate to be co-advised by Ali Jadbabaie. I graduated from Caltech in June 2024 with a Bachelor of Science in Electrical Engineering. I worked on enforcing real-world constraints in learning-augmented online optimization with Professor Adam Wierman, as well as non-asymptotic information theory with Professor Victoria Kostina.
