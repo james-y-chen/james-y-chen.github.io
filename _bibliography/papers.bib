@@ -14,5 +14,25 @@
   author={Chen, James Yuxuan},
   year={2024},
   school={California Institute of Technology},
-  selected={true}
+  selected={false}
+}
+
+@inproceedings{10.1145/3744255.3811712,
+author = {Chen, James Y and Drobot, St{\'e}phane and Saludjian, Lucas and Panciatici, Patrick and Chen, Pin-Yu and Jadbabaie, Ali and Donti, Priya L},
+title = {Communication-Limited Multi-Agent Grid Congestion Management via Differentiable Optimization},
+year = {2026},
+isbn = {9798400720116},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3744255.3811712},
+doi = {10.1145/3744255.3811712},
+abstract = {While there have been many recent advances in multi-agent grid control, they often rely on more communication infrastructure than is available in existing real-world transmission systems. To address this, we present a novel framework for multi-agent grid congestion management inspired by the communication architecture used by RTE, the French transmission system operator. Our framework considers communication-limited architectures in which a central coordinator is only able to periodically provide information to an ensemble of local optimization-based controllers; these local controllers do not communicate, but are nonetheless dynamically coupled. The goal of the coordinator is to provide signals that limit adverse interactions between local controllers, and to ensure that the system as a whole minimizes operational costs and violations of thermal limits. To do so, we leverage the structure of the congestion management problem to expose a parameterized family of locally-verifiable constraints for each controller that jointly imply global constraint satisfaction. The central coordinator then assigns constraint values from this family to the local controllers, with the goal of minimizing the resultant cost over the joint closed-loop trajectory under forecasted scenarios of future disturbances. We frame this as a bi-level problem, and use recent advances in differentiable optimization to find an approximate solution. We demonstrate our method on an IEEE 118-node system partitioned into three control areas. Our results demonstrate that our approach significantly lowers cost compared to RTE’s existing baseline. Furthermore, despite the significant communication constraints, our framework achieves costs comparable to the optimal cost under perfect information of future disturbances and with no restrictions on communication.},
+booktitle = {Proceedings of the 17th ACM International Conference on Future and Sustainable Energy Systems},
+pages = {486–503},
+numpages = {18},
+keywords = {multi-agent control, differentiable optimization, congestion management, limited communication control},
+location = {
+},
+series = {E-Energy '26},
+selected={true}
 }
